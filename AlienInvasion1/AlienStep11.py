@@ -198,7 +198,7 @@ class AlienInvasion:
             self.ship.center_ship()
 
             # Pause for half a second
-            sleep (0.6)
+            sleep (0.5)
         else:
             self.stats.game_active = False
     
